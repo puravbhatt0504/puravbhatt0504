@@ -102,13 +102,13 @@ Professional quotation generator with live previews, dynamic product catalog, ta
 </td>
 <td width="50%">
 
-### [TenderHunter](https://github.com/puravbhatt0504/tenderhunter)
-Automated government tender discovery and tracking platform.
+### [Sikkim Tourism](https://github.com/puravbhatt0504/Sikkim-Tourism)
+Tourism showcase for Sikkim — destinations, culture, and travel information.
 
-`JavaScript` `Web Scraping`
+`Next.js` `Vercel`
 
-<a href="https://github.com/puravbhatt0504/tenderhunter">
-<img src="https://socialify.git.ci/puravbhatt0504/tenderhunter/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="TenderHunter" width="100%"/>
+<a href="https://github.com/puravbhatt0504/Sikkim-Tourism">
+<img src="https://socialify.git.ci/puravbhatt0504/Sikkim-Tourism/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Sikkim Tourism" width="100%"/>
 </a>
 
 </td>
@@ -128,13 +128,13 @@ KNN-based personalized nutrition plan generator using machine learning.
 </td>
 <td width="50%">
 
-### [Admin Portal](https://github.com/puravbhatt0504/admin-portal)
-Employee management dashboard with attendance tracking, expense management, and AI-powered insights. Flask backend.
+### [TenderHunter](https://github.com/puravbhatt0504/tenderhunter)
+Automated government tender discovery and tracking platform.
 
-`TypeScript` `Flask` `PostgreSQL`
+`JavaScript` `Web Scraping`
 
-<a href="https://github.com/puravbhatt0504/admin-portal">
-<img src="https://socialify.git.ci/puravbhatt0504/admin-portal/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Admin Portal" width="100%"/>
+<a href="https://github.com/puravbhatt0504/tenderhunter">
+<img src="https://socialify.git.ci/puravbhatt0504/tenderhunter/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="TenderHunter" width="100%"/>
 </a>
 
 </td>
@@ -146,13 +146,13 @@ Employee management dashboard with attendance tracking, expense management, and 
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=puravbhatt0504&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=puravbhatt0504&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puravbhatt0504&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=puravbhatt0504&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=puravbhatt0504&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=puravbhatt0504&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
