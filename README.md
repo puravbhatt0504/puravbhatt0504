@@ -152,7 +152,7 @@ Automated government tender discovery and tracking platform.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=puravbhatt0504&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/puravbhatt0504/puravbhatt0504/output/github-streak-stats.svg" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
