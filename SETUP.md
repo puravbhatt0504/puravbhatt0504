@@ -1,6 +1,7 @@
 # Profile Views Counter Setup
 
-The Profile Views badge uses GitHub's repository traffic API. To make it work, add a **Personal Access Token** as a secret:
+The Profile Views badge uses GitHub's repository traffic API.
+ To make it work, add a **Personal Access Token** as a secret:
 
 ## 1. Create a Personal Access Token (PAT)
 
