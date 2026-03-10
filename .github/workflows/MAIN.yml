@@ -47,7 +47,23 @@ jobs:
           OUTPUT_PATH: dist/github-streak-stats.svg
           HIDE_BORDER: "true"
 
-      # Step 4: Deploy to output branch
+      # Step 4: Generate profile views counter (requires TRAFFIC_TOKEN secret - see SETUP.md)
+      - name: Generate Profile Views Badge
+        id: traffic
+        uses: yi-Xu-0100/traffic-to-badge@v1.4.0
+        with:
+          # Add TRAFFIC_TOKEN secret (PAT with repo scope) for reliable counts - see SETUP.md
+          my_token: ${{ secrets.TRAFFIC_TOKEN || secrets.GITHUB_TOKEN }}
+          static_list: ${{ github.repository }}
+          total_views_color: "0A66C2"
+          logo: github
+        continue-on-error: true
+
+      - name: Copy profile views badge to dist
+        if: steps.traffic.outcome == 'success'
+        run: cp "${{ steps.traffic.outputs.traffic_path }}/total_views.svg" dist/profile-views.svg
+
+      # Step 5: Deploy to output branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
