@@ -11,7 +11,7 @@
   <a href="https://github.com/puravbhatt0504">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=puravbhatt0504&color=0A66C2&style=flat&label=views" alt="Profile Views"/>
+  <a href="https://github.com/puravbhatt0504"><img src="https://img.shields.io/badge/Profile_Views-Check_my_profile-0A66C2?style=flat&logo=github&logoColor=white" alt="Profile Views"/></a>
 </p>
 
 ```yaml
