@@ -17,15 +17,15 @@
 ```yaml
 name: Purav Bhatt
 location: India
-focus: Flutter/Dart mobile apps · Supabase backends · Real-time admin portals
+focus: Building scalable applications with Flutter, Dart & Supabase
 expertise:
-  - Flutter & Dart — cross-platform mobile & admin dashboards
-  - Supabase — Auth, Postgres, Realtime, Edge Functions
+  - Flutter & Dart — cross-platform apps that scale from MVP to production
+  - Supabase — Auth, Postgres, Realtime, Edge Functions for backend
   - TypeScript/Next.js — AI-powered web apps
 currently:
   - Employee Manager — production attendance app with real-time tracking & payroll
   - GrindFlow — AI peer-to-peer knowledge exchange
-interests: ["Flutter", "Supabase", "Full-Stack Dev", "AI/ML", "Product Design"]
+interests: ["Flutter", "Supabase", "Scalable Apps", "Full-Stack Dev", "Product Design"]
 ```
 
 ---
@@ -37,7 +37,6 @@ interests: ["Flutter", "Supabase", "Full-Stack Dev", "AI/ML", "Product Design"]
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
