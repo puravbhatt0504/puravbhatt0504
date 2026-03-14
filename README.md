@@ -60,9 +60,9 @@ interests: ["Flutter", "Supabase", "Scalable Apps", "Full-Stack Dev", "Product D
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### [Employee Manager](https://github.com/puravbhatt0504/employee-manager-final) — *Full-stack attendance app*
+### 1. [Employee Manager](https://github.com/puravbhatt0504/employee-manager-final) — *Full-stack attendance app*
 
 Production-ready app built with **Flutter & Dart** for cross-platform deployment, powered by **Supabase**. Handles employee tracking, attendance, expenses, and salary processing in one unified interface.
 
@@ -74,16 +74,9 @@ Production-ready app built with **Flutter & Dart** for cross-platform deployment
 <img src="https://socialify.git.ci/puravbhatt0504/employee-manager-final/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Employee Manager" width="100%"/>
 </a>
 
----
+### 2. [GrindFlow](https://github.com/puravbhatt0504/grindflow) — *AI peer-to-peer knowledge exchange*
 
-## More Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [GrindFlow](https://github.com/puravbhatt0504/grindflow)
-AI-powered peer-to-peer knowledge exchange platform. Match with peers, trade skills, grow together.
+AI-powered platform to match with peers, trade skills, and grow together.
 
 `TypeScript` `Next.js` `Supabase` `AI`
 
@@ -91,7 +84,12 @@ AI-powered peer-to-peer knowledge exchange platform. Match with peers, trade ski
 <img src="https://socialify.git.ci/puravbhatt0504/grindflow/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="GrindFlow" width="100%"/>
 </a>
 
-</td>
+---
+
+## More Projects
+
+<table>
+<tr>
 <td width="50%">
 
 ### [Quote-me](https://github.com/puravbhatt0504/Quote-me-)
@@ -104,8 +102,6 @@ Professional quotation generator with live previews, dynamic product catalog, ta
 </a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [Sikkim Tourism](https://github.com/puravbhatt0504/Sikkim-Tourism)
@@ -118,6 +114,8 @@ Tourism showcase for Sikkim — destinations, culture, and travel information.
 </a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Nutrition ML Plan](https://github.com/puravbhatt0504/nutrition-ml-plan-)
