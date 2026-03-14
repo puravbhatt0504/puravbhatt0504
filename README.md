@@ -1,5 +1,6 @@
-<h1 align="center">Purav Bhatt</h1>
-<h3 align="center">Full-Stack Developer &middot; Flutter & Dart Expert &middot; Product Builder</h3>
+<h1 align="center">Hi, I'm Purav Bhatt</h1>
+<h3 align="center">Full-Stack Developer · Flutter & Dart · Product Builder</h3>
+<p align="center"><em>Building scalable apps with Flutter, Dart & Supabase · Based in India</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pb0504/">
@@ -13,6 +14,8 @@
   </a>
   <a href="https://github.com/puravbhatt0504"><img src="https://komarev.com/ghpvc/?username=puravbhatt0504&color=0A66C2&style=flat" alt="Profile Views"/></a>
 </p>
+
+*Building scalable apps with Flutter, Dart & Supabase. Open to collaboration.*
 
 ```yaml
 name: Purav Bhatt
@@ -30,7 +33,7 @@ interests: ["Flutter", "Supabase", "Scalable Apps", "Full-Stack Dev", "Product D
 
 ---
 
-## Tech Stack
+## 🛠️ Tech & Tools
 
 **Languages**
 
@@ -60,7 +63,7 @@ interests: ["Flutter", "Supabase", "Scalable Apps", "Full-Stack Dev", "Product D
 
 ---
 
-## Featured Projects
+## 📁 Featured Projects
 
 ### 1. [Employee Manager](https://github.com/puravbhatt0504/employee-manager-final) — *Full-stack attendance app*
 
@@ -86,7 +89,7 @@ AI-powered platform to match with peers, trade skills, and grow together.
 
 ---
 
-## More Projects
+## 📂 More Projects
 
 <table>
 <tr>
@@ -145,7 +148,7 @@ Automated government tender discovery and tracking platform.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://readme-stats-fast.vercel.app/api?username=puravbhatt0504&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
@@ -163,7 +166,7 @@ Automated government tender discovery and tracking platform.
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puravbhatt0504/puravbhatt0504/output/github-snake-dark.svg" />
