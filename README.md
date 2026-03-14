@@ -1,5 +1,5 @@
 <h1 align="center">Purav Bhatt</h1>
-<h3 align="center">Full-Stack Developer &middot; AI Enthusiast &middot; Product Builder</h3>
+<h3 align="center">Full-Stack Developer &middot; Flutter & Dart Expert &middot; Product Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pb0504/">
@@ -17,12 +17,15 @@
 ```yaml
 name: Purav Bhatt
 location: India
-focus: Building AI-powered web apps & shipping real products
+focus: Flutter/Dart mobile apps · Firebase backends · Real-time admin portals
+expertise:
+  - Flutter & Dart — cross-platform mobile & admin dashboards
+  - Firebase — Auth, Firestore, Realtime DB, Cloud Functions
+  - TypeScript/Next.js — AI-powered web apps
 currently:
-  - Scaling GrindFlow — peer-to-peer knowledge exchange platform
-  - Exploring Rust for performance-critical backends
-  - Building cross-platform apps with Flutter & Dart
-interests: ["Full-Stack Dev", "AI/ML", "Systems Programming", "Product Design"]
+  - Employee Manager — production attendance app with real-time tracking & payroll
+  - GrindFlow — AI peer-to-peer knowledge exchange
+interests: ["Flutter", "Firebase", "Full-Stack Dev", "AI/ML", "Product Design"]
 ```
 
 ---
@@ -58,7 +61,23 @@ interests: ["Full-Stack Dev", "AI/ML", "Systems Programming", "Product Design"]
 
 ---
 
-## Featured Projects
+## Featured Project
+
+### [Employee Manager](https://github.com/puravbhatt0504/employee-manager-final) — *Admin portal for a full attendance app*
+
+Production-ready admin dashboard built with **Flutter & Dart** for cross-platform deployment, powered by **Firebase** for real-time sync. Handles employee tracking, attendance, expenses, and salary processing in one unified interface.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-0A66C2?style=flat&logo=vercel&logoColor=white)](https://employee-manager-final.vercel.app) · [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/puravbhatt0504/employee-manager-final)
+
+`Flutter` `Dart` `Firebase` `Real-time` `Admin Dashboard`
+
+<a href="https://github.com/puravbhatt0504/employee-manager-final">
+<img src="https://socialify.git.ci/puravbhatt0504/employee-manager-final/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Employee Manager" width="100%"/>
+</a>
+
+---
+
+## More Projects
 
 <table>
 <tr>
@@ -76,20 +95,6 @@ AI-powered peer-to-peer knowledge exchange platform. Match with peers, trade ski
 </td>
 <td width="50%">
 
-### [Employee Manager](https://github.com/puravbhatt0504/employee-manager-final)
-Attendance app admin portal with real-time employee tracking, expense management, and salary processing.
-
-`Dart` `Flutter` `Firebase`
-
-<a href="https://github.com/puravbhatt0504/employee-manager-final">
-<img src="https://socialify.git.ci/puravbhatt0504/employee-manager-final/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Employee Manager" width="100%"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### [Quote-me](https://github.com/puravbhatt0504/Quote-me-)
 Professional quotation generator with live previews, dynamic product catalog, tax/discount calc, and Excel export.
 
@@ -100,6 +105,8 @@ Professional quotation generator with live previews, dynamic product catalog, ta
 </a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Sikkim Tourism](https://github.com/puravbhatt0504/Sikkim-Tourism)
@@ -112,8 +119,6 @@ Tourism showcase for Sikkim — destinations, culture, and travel information.
 </a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [Nutrition ML Plan](https://github.com/puravbhatt0504/nutrition-ml-plan-)
