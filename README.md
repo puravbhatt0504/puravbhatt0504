@@ -23,7 +23,7 @@ expertise:
   - Supabase — Auth, Postgres, Realtime, Edge Functions for backend
   - TypeScript/Next.js — AI-powered web apps
 currently:
-  - Employee Manager — production attendance app with real-time tracking & payroll
+  - Employee Manager — production attendance app with tracking & payroll
   - GrindFlow — AI peer-to-peer knowledge exchange
 interests: ["Flutter", "Supabase", "Scalable Apps", "Full-Stack Dev", "Product Design"]
 ```
@@ -62,13 +62,13 @@ interests: ["Flutter", "Supabase", "Scalable Apps", "Full-Stack Dev", "Product D
 
 ## Featured Project
 
-### [Employee Manager](https://github.com/puravbhatt0504/employee-manager-final) — *Admin portal for a full attendance app*
+### [Employee Manager](https://github.com/puravbhatt0504/employee-manager-final) — *Full-stack attendance app*
 
-Production-ready admin dashboard built with **Flutter & Dart** for cross-platform deployment, powered by **Supabase** for real-time sync. Handles employee tracking, attendance, expenses, and salary processing in one unified interface.
+Production-ready app built with **Flutter & Dart** for cross-platform deployment, powered by **Supabase**. Handles employee tracking, attendance, expenses, and salary processing in one unified interface.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-0A66C2?style=flat&logo=vercel&logoColor=white)](https://employee-manager-final.vercel.app) · [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/puravbhatt0504/employee-manager-final)
 
-`Flutter` `Dart` `Supabase` `Real-time` `Admin Dashboard`
+`Flutter` `Dart` `Supabase`
 
 <a href="https://github.com/puravbhatt0504/employee-manager-final">
 <img src="https://socialify.git.ci/puravbhatt0504/employee-manager-final/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Employee Manager" width="100%"/>
