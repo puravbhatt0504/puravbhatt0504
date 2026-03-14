@@ -17,15 +17,15 @@
 ```yaml
 name: Purav Bhatt
 location: India
-focus: Flutter/Dart mobile apps · Firebase backends · Real-time admin portals
+focus: Flutter/Dart mobile apps · Supabase backends · Real-time admin portals
 expertise:
   - Flutter & Dart — cross-platform mobile & admin dashboards
-  - Firebase — Auth, Firestore, Realtime DB, Cloud Functions
+  - Supabase — Auth, Postgres, Realtime, Edge Functions
   - TypeScript/Next.js — AI-powered web apps
 currently:
   - Employee Manager — production attendance app with real-time tracking & payroll
   - GrindFlow — AI peer-to-peer knowledge exchange
-interests: ["Flutter", "Firebase", "Full-Stack Dev", "AI/ML", "Product Design"]
+interests: ["Flutter", "Supabase", "Full-Stack Dev", "AI/ML", "Product Design"]
 ```
 
 ---
@@ -65,11 +65,11 @@ interests: ["Flutter", "Firebase", "Full-Stack Dev", "AI/ML", "Product Design"]
 
 ### [Employee Manager](https://github.com/puravbhatt0504/employee-manager-final) — *Admin portal for a full attendance app*
 
-Production-ready admin dashboard built with **Flutter & Dart** for cross-platform deployment, powered by **Firebase** for real-time sync. Handles employee tracking, attendance, expenses, and salary processing in one unified interface.
+Production-ready admin dashboard built with **Flutter & Dart** for cross-platform deployment, powered by **Supabase** for real-time sync. Handles employee tracking, attendance, expenses, and salary processing in one unified interface.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-0A66C2?style=flat&logo=vercel&logoColor=white)](https://employee-manager-final.vercel.app) · [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/puravbhatt0504/employee-manager-final)
 
-`Flutter` `Dart` `Firebase` `Real-time` `Admin Dashboard`
+`Flutter` `Dart` `Supabase` `Real-time` `Admin Dashboard`
 
 <a href="https://github.com/puravbhatt0504/employee-manager-final">
 <img src="https://socialify.git.ci/puravbhatt0504/employee-manager-final/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Employee Manager" width="100%"/>
