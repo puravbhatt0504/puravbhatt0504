@@ -28,7 +28,12 @@ expertise:
 currently:
   - Employee Manager — production attendance app with tracking & payroll
   - GrindFlow — AI peer-to-peer knowledge exchange
-interests: ["Flutter", "Supabase", "Scalable Apps", "Full-Stack Dev", "Product Design"]
+interests:
+  - "Flutter & cross-platform"
+  - "Backend that scales"
+  - "UX that doesn't get in the way"
+  - "End-to-end ownership"
+  - "Side projects that turn into real products"
 ```
 
 ---
