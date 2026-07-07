@@ -15,6 +15,12 @@
   <a href="https://github.com/puravbhatt0504"><img src="https://komarev.com/ghpvc/?username=puravbhatt0504&color=0A66C2&style=flat" alt="Profile Views"/></a>
 </p>
 
+<p align="center">
+  <a href="https://portfolio-purav-bhatt.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 *Building scalable apps with Flutter, Dart & Supabase. Open to collaboration.*
 
 ```yaml
