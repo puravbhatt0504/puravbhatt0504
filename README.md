@@ -89,7 +89,17 @@ Production-ready app built with **Flutter & Dart** for cross-platform deployment
 <img src="https://socialify.git.ci/puravbhatt0504/employee-manager-final/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Employee Manager" width="100%"/>
 </a>
 
-### 2. [GrindFlow](https://github.com/puravbhatt0504/grindflow) — *AI peer-to-peer knowledge exchange*
+### 2. [Urban Policy Simulation](https://github.com/puravbhatt0504/urban-policy-simulation) — *AI-powered urban planning platform*
+
+Platform for modeling and simulating the impact of urban policy decisions (zoning, transit, housing, taxation) before they're enacted. Uses agent-based simulations over real city data with an AI layer for scenario generation and result explanation.
+
+`Python` `AI` `Agent-Based Simulation`
+
+<a href="https://github.com/puravbhatt0504/urban-policy-simulation">
+<img src="https://socialify.git.ci/puravbhatt0504/urban-policy-simulation/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Urban Policy Simulation" width="100%"/>
+</a>
+
+### 3. [GrindFlow](https://github.com/puravbhatt0504/grindflow) — *AI peer-to-peer knowledge exchange*
 
 AI-powered platform to match with peers, trade skills, and grow together.
 
@@ -99,7 +109,7 @@ AI-powered platform to match with peers, trade skills, and grow together.
 <img src="https://socialify.git.ci/puravbhatt0504/grindflow/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="GrindFlow" width="100%"/>
 </a>
 
-### 3. [ExpenseLens](https://github.com/puravbhatt0504/ExpenseLens) — *AI expense tracker with OCR*
+### 4. [ExpenseLens](https://github.com/puravbhatt0504/ExpenseLens) — *AI expense tracker with OCR*
 
 Modern Flutter app that scans UPI/payment screenshots using on-device ML Kit OCR, auto-categorizes transactions, and visualizes spending with interactive charts.
 
