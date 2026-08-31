@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-purav-bhatt.vercel.app/">
+  <a href="https://puravbhatt.me/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -34,6 +34,7 @@ expertise:
 currently:
   - Employee Manager — production attendance app with tracking & payroll
   - GrindFlow — AI peer-to-peer knowledge exchange
+  - ExpenseLens — AI-powered expense tracker with OCR receipt scanning
 interests:
   - "Flutter & cross-platform"
   - "Backend that scales"
@@ -96,6 +97,18 @@ AI-powered platform to match with peers, trade skills, and grow together.
 
 <a href="https://github.com/puravbhatt0504/grindflow">
 <img src="https://socialify.git.ci/puravbhatt0504/grindflow/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="GrindFlow" width="100%"/>
+</a>
+
+### 3. [ExpenseLens](https://github.com/puravbhatt0504/ExpenseLens) — *AI expense tracker with OCR*
+
+Modern Flutter app that scans UPI/payment screenshots using on-device ML Kit OCR, auto-categorizes transactions, and visualizes spending with interactive charts.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-0A66C2?style=flat&logo=vercel&logoColor=white)](https://web-six-olive-25.vercel.app) · [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/puravbhatt0504/ExpenseLens)
+
+`Flutter` `Dart` `Node.js` `Google ML Kit` `Neon Postgres`
+
+<a href="https://github.com/puravbhatt0504/ExpenseLens">
+<img src="https://socialify.git.ci/puravbhatt0504/ExpenseLens/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="ExpenseLens" width="100%"/>
 </a>
 
 ---
