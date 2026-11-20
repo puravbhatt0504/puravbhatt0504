@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Purav Bhatt</h1>
-<h3 align="center">Full-Stack Product Developer · Next.js · TypeScript · Flutter</h3>
-<p align="center"><em>Building polished, production-grade apps · Based in India · Open to work</em></p>
+<h3 align="center">Full-Stack &amp; AI Engineer · TypeScript · Node.js · PostgreSQL · Flutter · LLMs</h3>
+<p align="center"><em>Reliable backends, production LLM features, and apps people use daily · Delhi, India · Open to work</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pb0504/">
@@ -21,17 +21,19 @@
   </a>
 </p>
 
-*Full-stack product developer building polished, production-grade applications — from interactive frontends to PostgreSQL backends and AI integrations. Open to work.*
+*Full-stack and AI engineer. I build systems that hold up in production and measure them: job queues chaos-tested to zero lost jobs, RAG features gated by evals in CI, and a workforce app used daily by a fire-services company.*
 
 ```yaml
 name: Purav Bhatt
-location: India
-role: Full-Stack Product Developer
+location: Delhi, India
+role: Full-Stack & AI Engineer
+education: B.Tech, Artificial Intelligence & Data Science, GGSIPU (2027)
 expertise:
   - Next.js & TypeScript — interactive frontends with Framer Motion & Tailwind
   - Flutter & Dart — cross-platform apps in daily production use
   - Node.js, PostgreSQL, Redis — backends built to survive failure
-  - AWS — ECS Fargate, CloudFront, CDK, Bedrock
+  - LLM features — RAG with citations, hybrid search, evals in CI (Bedrock, Anthropic)
+  - AWS — ECS Fargate, RDS, CDK, Bedrock
 currently:
   - Simulation Sys — agent-based modeling of urban policy with AI scenarios
 principles:
@@ -82,29 +84,21 @@ principles:
 
 ## 📁 Featured Projects
 
-### 1. [Marka](https://employee-manager-final.vercel.app) — *Workforce platform in daily production use*
-
-Used daily by a fire-services company: two **Flutter** apps and a **Next.js** admin portal with live GPS tracking, biometric check-in, OCR receipt scanning, and payroll.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-0A66C2?style=flat&logo=vercel&logoColor=white)](https://employee-manager-final.vercel.app)
-
-`Flutter` `Next.js` `Supabase`
-
-### 2. [RelayQ](https://github.com/puravbhatt0504/relayq) — *Fault-tolerant background-job service*
+### 1. [RelayQ](https://github.com/puravbhatt0504/relayq) — *Fault-tolerant background-job service*
 
 Multi-tenant job service that survives workers being killed mid-flight: **33k jobs/min**, and **0 lost or duplicated** across 10k jobs under chaos testing.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-0A66C2?style=flat&logo=vercel&logoColor=white)](https://relayq-demo.onrender.com/demo) · [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/puravbhatt0504/relayq)
 
-`Node.js` `BullMQ` `PostgreSQL` `AWS`
+`Node.js` `BullMQ` `Redis` `PostgreSQL` `Docker` `AWS CDK`
 
 <a href="https://github.com/puravbhatt0504/relayq">
 <img src="https://socialify.git.ci/puravbhatt0504/relayq/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="RelayQ" width="100%"/>
 </a>
 
-### 3. [PulseBoard](https://github.com/puravbhatt0504/pulseboard) — *Real-time collaborative Kanban*
+### 2. [PulseBoard](https://github.com/puravbhatt0504/pulseboard) — *Real-time collaborative Kanban*
 
-Live cursors and shared editing, deployed to **ECS Fargate** behind **CloudFront** with infrastructure as code and AI features on **Bedrock**.
+Live cursors and shared editing at **78.5 ms p95 for 100 concurrent users**, plus "Ask the board": RAG with citations, gated in CI by a 64-case eval (**citation precision 1.0, 10/10 prompt injections resisted**). Ran on **ECS Fargate** behind **CloudFront** (CDK, Bedrock), then torn down to save cost; the live demo runs on Render.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-0A66C2?style=flat&logo=vercel&logoColor=white)](https://pulseboard-fmbj.onrender.com/) · [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/puravbhatt0504/pulseboard)
 
@@ -113,6 +107,14 @@ Live cursors and shared editing, deployed to **ECS Fargate** behind **CloudFront
 <a href="https://github.com/puravbhatt0504/pulseboard">
 <img src="https://socialify.git.ci/puravbhatt0504/pulseboard/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="PulseBoard" width="100%"/>
 </a>
+
+### 3. [Marka](https://employee-manager-final.vercel.app) — *Workforce platform in daily production use*
+
+Used daily by a fire-services company: two **Flutter** apps and a **Next.js** admin portal with live GPS tracking, biometric check-in, OCR receipt scanning, and payroll.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-0A66C2?style=flat&logo=vercel&logoColor=white)](https://employee-manager-final.vercel.app)
+
+`Flutter` `Next.js` `Supabase`
 
 ### 4. [Urban Policy Simulation](https://github.com/simulationsys/urban-policy-simulation) — *AI-powered urban planning platform*
 
@@ -135,7 +137,7 @@ Agent-based simulation platform for testing zoning, transit, and housing policy 
 <td width="50%">
 
 ### [ExpenseLens](https://github.com/puravbhatt0504/ExpenseLens)
-Flutter expense tracker that scans UPI/payment screenshots with on-device ML Kit OCR and auto-categorizes spending.
+Flutter + Next.js expense tracker: on-device ML Kit OCR on payment screenshots, routed to per-format parsers (UPI apps, food delivery, fuel, bills).
 
 `Flutter` `Dart` `Google ML Kit` `Neon Postgres`
 
@@ -147,9 +149,9 @@ Flutter expense tracker that scans UPI/payment screenshots with on-device ML Kit
 <td width="50%">
 
 ### [GrindFlow](https://github.com/puravbhatt0504/grindflow)
-AI-powered peer-to-peer platform to match with peers, trade skills, and grow together.
+Peer study-notes platform: AI note scoring, quizzes and study flows (Gemini), a public library and chat. Team of five.
 
-`TypeScript` `Next.js` `Supabase` `AI`
+`TypeScript` `Next.js` `Neon` `Clerk` `Gemini`
 
 <a href="https://github.com/puravbhatt0504/grindflow">
 <img src="https://socialify.git.ci/puravbhatt0504/grindflow/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="GrindFlow" width="100%"/>
