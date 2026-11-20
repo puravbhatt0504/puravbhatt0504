@@ -120,6 +120,8 @@ Used daily by a fire-services company: two **Flutter** apps and a **Next.js** ad
 
 Agent-based simulation platform for testing zoning, transit, and housing policy on real city data before it is enacted, with AI-generated scenarios and explanations.
 
+**Evaluation I led:** a seeded, paired-comparison harness (20 seeds × 11 scenarios, 95% CIs, pre-registered hypotheses) calibrated against Delhi's RITES mobility survey. It found and fixed two engine bugs (agents making ~20 trips/day instead of ~2; one metro closure shutting the whole network). [Write-up →](https://github.com/simulationsys/urban-policy-simulation/tree/dev/research/eval)
+
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/simulationsys/urban-policy-simulation)
 
 `Python` `AI` `Agent-Based Simulation`
